@@ -108,7 +108,7 @@ function App() {
 
         <h1 className="text-[#8EFF8B] mt-16">List of User</h1>
 
-        <button onClick={handleOpenModal} className="bg-[#CBFFDA] font-normal mt-8 text-black w-[min(100%,_347px)] py-2 rounded-lg">
+        <button onClick={handleOpenModal} className="bg-[#CBFFDA] font-normal mt-8 text-black w-[min(100%,_347px)] py-2 rounded-lg  hover:bg-[#57ec52] hover:text-white hover:tracking-widest transition-all">
           Create new user
         </button>
 
